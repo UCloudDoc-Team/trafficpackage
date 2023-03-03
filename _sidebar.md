@@ -6,7 +6,7 @@
 * 计费说明
    * [计费概述](/trafficpackage/introduction/charge)
 * 操作指南
-* [购买共享流量包](/trafficpackage/introduction/createtrafficpackage)
-* [删除共享流量包](/trafficpackage/introduction/deletetrafficpackage)
+   * [购买共享流量包](/trafficpackage/introduction/createtrafficpackage)
+   * [删除共享流量包](/trafficpackage/introduction/deletetrafficpackage)
 
 
