@@ -4,9 +4,9 @@
    * [什么是共享流量包](/trafficpackage/introduction/concept)
    * [产品优势](/trafficpackage/introduction/advantages)   
 * 计费说明
-   * [计费概述](/trafficpackage/introduction/charge)
+   * [计费概述](/trafficpackage/buy/charge)
 * 操作指南
-   * [购买共享流量包](/trafficpackage/introduction/createtrafficpackage)
-   * [删除共享流量包](/trafficpackage/introduction/deletetrafficpackage)
+   * [购买共享流量包](/trafficpackage/guide/createtrafficpackage)
+   * [删除共享流量包](/trafficpackage/guide/deletetrafficpackage)
 
 
