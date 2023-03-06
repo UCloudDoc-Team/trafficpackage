@@ -8,5 +8,4 @@
 * 操作指南
    * [购买共享流量包](/trafficpackage/guide/createtrafficpackage)
    * [删除共享流量包](/trafficpackage/guide/deletetrafficpackage)
-
-
+* [FAQ](/trafficpackage/faq)
