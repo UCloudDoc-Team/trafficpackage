@@ -15,3 +15,5 @@
 * [购买共享流量包](/trafficpackage/guide/createtrafficpackage)
 * [删除共享流量包](/trafficpackage/guide/deletetrafficpackage)
 
+
+## 4.[FAQ](/trafficpackage/faq)
