@@ -15,5 +15,5 @@
      * [共享流量包价格](/trafficpackage/buy/Price)
 * 操作指南
      * [创建共享流量包](/trafficpackage/guide/Create)
-     * [删除共享流量包](/trafficpackage/guide/Delete.)
+     * [删除共享流量包](/trafficpackage/guide/Delete)
 * [FAQ](/trafficpackage/faq)
